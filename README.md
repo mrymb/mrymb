@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrymb
 - 👀 I’m interested in Bigdata Stack
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Teradata Tools and Cloud technologies 
 - 💞️ I’m looking to collaborate on - to be determined
 - 📫 How to reach me - maryam-baig@hotmail.com
 
