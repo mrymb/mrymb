@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrymb
-- 👀 I’m interested in Bigdata Stack
+- 👀 I’m interested in Bigdata technologies and Artificial Intelligence
 - 🌱 I’m currently learning Teradata Tools and Cloud technologies 
 - 📫 How to reach me - maryam-baig@hotmail.com
 
